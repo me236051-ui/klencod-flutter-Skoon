@@ -1,4 +1,4 @@
-دname: skoon
+name: skoon
 description: "تطبيق سُكون للأذكار والقرآن ومواقيت الصلاة"
 publish_to: 'none'
 version: 1.0.0+1
